@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSquareEquation", "ThreadSquareEquation\ThreadSquareEquation.csproj", "{1AF1284B-5D95-4EC5-99BF-C0C18FC74025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF1284B-5D95-4EC5-99BF-C0C18FC74025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF1284B-5D95-4EC5-99BF-C0C18FC74025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF1284B-5D95-4EC5-99BF-C0C18FC74025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF1284B-5D95-4EC5-99BF-C0C18FC74025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA37487-9004-40A7-BDEC-BC9E84685015}
+	EndGlobalSection
+EndGlobal
